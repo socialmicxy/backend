@@ -1,0 +1,34 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "connect-mongo": "^4.6.0",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.20",
+    "passport": "^0.6.0",
+    "passport-google-oauth2": "^0.2.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-google-oidc": "^0.1.0",
+    "querystring": "^0.2.1",
+    "redis": "^4.3.1",
+    "request": "^2.88.2",
+    "socket.io": "^4.5.1",
+    "spotify-web-api-node": "^5.0.2",
+    "uuid": "^3.4.0"
+  }
+}
